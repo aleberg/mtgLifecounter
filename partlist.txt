@@ -5,5 +5,6 @@
 (1) on/off toggle switch
 (1) 5k linear potentiometer
 (6) 10k resistors
+(1) enclosure
 (1) DC 9v socket
 (1) 9v DC wall wart
