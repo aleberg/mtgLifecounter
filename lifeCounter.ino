@@ -1,3 +1,7 @@
+// MTG dice roller & life counter (2 players)
+// Using Arduino Pro Mini 5V and MAX7219 Led Driver
+// Alessandro Guttenberg, November 2020
+
 #include <LedControl.h>
 #include <Entropy.h>
 
