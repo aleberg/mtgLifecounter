@@ -4,11 +4,11 @@
 LedControl lc = LedControl(12,11,10,1);
 
 const int rollSwitch = 2; // momentary switch/button for dice roll
-const int resetSwitch = 5; // momentary switch/button for reset to full life
-const int upA = 4; // momentary switch/button player A +1
-const int downA = 3; // momentary switch/button player A -1 life
-const int upB = 6; // momentary switch/button player B +1 life
-const int downB = 7; // momentary switch/button player B -1 life
+const int resetSwitch = 3; // momentary switch/button for reset to full life
+const int upA = 7; // momentary switch/button player A +1
+const int downA = 6; // momentary switch/button player A -1 life
+const int upB = 5; // momentary switch/button player B +1 life
+const int downB = 4; // momentary switch/button player B -1 life
 const int potPin = A0; // potentiometer to set display brightness
 
 uint8_t rollSwitchState = 0;
